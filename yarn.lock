@@ -1517,6 +1517,7 @@
 
 "@emeraldpay/api-node@0.3.0-alpha.2", "@emeraldpay/api-node@https://artifacts.emerald.cash/builds/emerald-api-js/acba4725/emeraldpay-api-node-v0.3.0-alpha.2.tgz":
   version "0.3.0-alpha.2"
+  uid "81b46c96749728a38759855a657feb98bd0bc504"
   resolved "https://artifacts.emerald.cash/builds/emerald-api-js/acba4725/emeraldpay-api-node-v0.3.0-alpha.2.tgz#81b46c96749728a38759855a657feb98bd0bc504"
   dependencies:
     "@emeraldpay/api" "0.3.0-alpha.2"
@@ -1527,6 +1528,7 @@
 
 "@emeraldpay/api@0.3.0-alpha.2", "@emeraldpay/api@https://artifacts.emerald.cash/builds/emerald-api-js/acba4725/emeraldpay-api-v0.3.0-alpha.2.tgz":
   version "0.3.0-alpha.2"
+  uid c93e01c8a90ee12095f8cf9f52f28af0565c2a6b
   resolved "https://artifacts.emerald.cash/builds/emerald-api-js/acba4725/emeraldpay-api-v0.3.0-alpha.2.tgz#c93e01c8a90ee12095f8cf9f52f28af0565c2a6b"
   dependencies:
     google-protobuf "^3.10.0"
@@ -1550,10 +1552,12 @@
 
 "@emeraldpay/emerald-vault-core@0.10.0-dev", "@emeraldpay/emerald-vault-core@^0.9.0", "@emeraldpay/emerald-vault-core@https://artifacts.emerald.cash/builds/vault-node/6a9cdced/emeraldpay-emerald-vault-core-v0.10.0-dev.tgz":
   version "0.10.0-dev"
+  uid "48e98f278ad578d5ff987107f563d6d76e2ecd65"
   resolved "https://artifacts.emerald.cash/builds/vault-node/6a9cdced/emeraldpay-emerald-vault-core-v0.10.0-dev.tgz#48e98f278ad578d5ff987107f563d6d76e2ecd65"
 
 "@emeraldpay/emerald-vault-native@^0.9.0", "@emeraldpay/emerald-vault-native@https://artifacts.emerald.cash/builds/vault-node/6a9cdced/emeraldpay-emerald-vault-native-v0.10.0-dev.tgz":
   version "0.10.0-dev"
+  uid "155e5f6369256e93244ce63c18ca8c21b22dd1d9"
   resolved "https://artifacts.emerald.cash/builds/vault-node/6a9cdced/emeraldpay-emerald-vault-native-v0.10.0-dev.tgz#155e5f6369256e93244ce63c18ca8c21b22dd1d9"
   dependencies:
     "@emeraldpay/emerald-vault-core" "0.10.0-dev"
@@ -13534,9 +13538,9 @@ lru-cache@^6.0.0:
     yallist "^4.0.0"
 
 luxon@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.4.0.tgz#9435806545bb32d4234dab766ab8a3d54847a765"
-  integrity sha512-w+NAwWOUL5hO0SgwOHsMBAmZ15SoknmQXhSO0hIbJCAmPKSsGeK8MlmhYh2w6Iib38IxN2M+/ooXWLbeis7GuA==
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.5.2.tgz#17ed497f0277e72d58a4756d6a9abee4681457b6"
+  integrity sha512-Yg7/RDp4nedqmLgyH0LwgGRvMEKVzKbUdkBYyCosbHgJ+kaOUx0qzSiSatVc3DFygnirTPYnMM2P5dg2uH1WvA==
 
 macos-release@^2.2.0:
   version "2.3.0"
